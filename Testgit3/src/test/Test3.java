@@ -1,9 +1,10 @@
 package test;
 
-public class TestClass {
+public class Test3 {
 
 	public static void main(String[] args) {
-		// Prueba comentarioTest
+		// TODO Auto-generated method stub Test1
+
 	}
 
 }
